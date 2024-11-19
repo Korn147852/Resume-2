@@ -34,7 +34,6 @@ body {
     text-decoration: underline;
   }
   
-  /* Navbar Styles */
   .navbar {
     background: #333;
     padding: 10px 20px;
@@ -43,7 +42,7 @@ body {
     align-items: center;
     position: sticky;
     top: 0;
-    z-index: 1000; /* Ensure navbar stays on top of other elements */
+    z-index: 1000; 
   }
   
   .nav-list {
