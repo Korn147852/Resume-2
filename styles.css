@@ -4,6 +4,10 @@ body {
     padding: 0;
     background-color: #f4f4f4;
   }
+  .lol {
+    width: 20px; 
+    height: auto;
+  }
   
   .container {
     max-width: 800px;
